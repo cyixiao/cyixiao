@@ -4,7 +4,6 @@
 🎓 **B.Sc. @ UNC-Chapel Hill**  
 🔬 **AI for Science & LLM Researcher**
 
----
 
 ## 🚀 About Me
 
@@ -14,13 +13,11 @@ I’m a passionate researcher working at the intersection of **AI and science**,
 - 🔥 **Looking forward to:** Using AI to make a real-world impact and explore uncharted scientific territory
 
 
----
 
 ## 🎓 Academic Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=qrRtqo0AAAAJ)
 
----
 
 ## 🎮 Fun Facts
 
@@ -29,6 +26,5 @@ I’m a passionate researcher working at the intersection of **AI and science**,
 - 🎮 FPS gamer
 - 🏎️ F1 racing fan
 
----
 
 *Let’s connect, collaborate, and use AI to solve fascinating scientific problems!*
