@@ -13,20 +13,6 @@ I’m a passionate researcher working at the intersection of **AI and science**,
 - 💡 **Current focus:** AI for science, large language models, collaborative inference
 - 🔥 **Looking forward to:** Using AI to make a real-world impact and explore uncharted scientific territory
 
----
-
-## 🧑‍🔬 Featured Projects
-
-⭐️ **[CITER](https://github.com/cyixiao/CITER)**  
-*Collaborative Inference framework to accelerate LLM inference.*
-
-⭐️ **[MuSHIN](https://github.com/cyixiao/MuSHIN)**  
-*Hypergraph neural network for predicting missing reactions in metabolic networks.*
-
-⭐️ **[DREAM-GNN](https://github.com/Ryan-Yanlong/DREAM-GNN)**  
-*Machine learning-based method for drug repositioning.*
-
-> Check out my [pinned projects](https://github.com/cyixiao?tab=repositories) for more!
 
 ---
 
