@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yixiao!
 
 🎓 **Master’s Student @ Harvard**  
-🎓 **B.Sc. @ UNC-Chapel Hill**  
+🎓 **B.S. @ UNC-Chapel Hill**  
 🔬 **AI for Science & LLM Researcher**
 
 
